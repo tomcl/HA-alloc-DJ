@@ -1,0 +1,12 @@
+/InterfacingCode/InterfacingCode/csvs/*.csv
+/InterfacingCode/InterfacingCode/obj/*
+/InterfacingCode/InterfacingCode/bin/*
+/InterfacingCode/InterfacingCode/*.txt
+/InterfacingCode/InterfacingCode.Tests/obj/*
+/InterfacingCode/InterfacingCode.Tests/bin/*
+/InterfacingCode/InterfacingCode.Tests/TestResults
+/hungarian_implementation/*.txt
+/hungarian_implementation/*.o
+/hungarian_implementation/*.exe
+.fake
+.vscode
